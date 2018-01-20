@@ -1,0 +1,36 @@
+.button-style {
+    background-color: rgba(0, 60, 255, 0);
+    width: 100px;
+    height: 60px;
+    color: black;
+}
+
+.hidden {
+    display: none;
+}
+
+.padding-bottom {
+    padding-bottom: 30px;
+}
+.row {
+   
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(128, 0, 32);
+    text-align: center;
+}
+#my-div {
+    background-color: rgb(32, 31, 31);
+}
+p {
+    font-size: 14px;
+    text-align: center;
+
+}
+body{text-align:center;
+    font-size: 25px;
+    color: rgb(165, 20, 63);
+    background-image: url("background.jpg");
+}
